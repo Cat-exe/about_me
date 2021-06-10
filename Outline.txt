@@ -1,0 +1,88 @@
+ABOUT:
+
+Hi! I'm Carol, and I enjoy problem solving and finding new productivity hacks to make life easier.
+
+Background:
+As an educator, I apply what I know and what I love to my job: tinkering with code, finding solutions, and helping others - but, most importantly, having fun while doing so!
+
+My goal is to help students become better thinkers, and articulating what they know versus what they don't know is always the first step.
+
+I currently teach in the Brown Scholars Program for BridgeUP:STEM @ the American Museum of Natural History.
+
+1. I teach the Brown Scholars about the wonders of Data Science, and its intersection between Computer Science and Natural Science. We use datasets gathered from the museum to learn basic Python syntax, practicing data manipulation techniques and creating visualizations for six scientific unit projects throughout the school year.
+2. I mentor a group of 6 brilliant interns in a year-long project dedicated to the application of their Python skills. We are studying the epidemiological impact of COVID-19 on the world, while learning how to implement various new computer science topics like Machine Learning and Web Design to share our findings.
+
+What I Do:
+I have wanted to be a teacher since elementary school. Now that I am in that position, I apply what I know and what I love to my job: tinkering with code, finding solutions, and helping others, but most importantly, having fun while doing so!
+
+My goal is to help students become better thinkers so they have an easier time paving their way ahead.
+
+Inspiration:
+I live by the following words:
+
+"Simplicity is bliss."
+"No one is better than me, and I'm not better than anyone."
+"Time waits for no one, so make the best use of it."
+"Learn what is to be taken seriously, and laugh at the rest."
+"There is never nothing to do."
+"Begin with the end in mind."
+
+Find me @...:
+Linkedin: https://www.linkedin.com/in/carolpignato/
+GitHub: https://github.com/Cat-exe
+Twitter: N/A
+Instagram: N/A
+
+
+PROJECTS
+
+* Blue Bud - This chatbot was created during a hackathon for a JetBlue challenge. It's meant to assist and inform first time fliers using artificial intelligence (IBM Watson), HTML5, CSS, JavaScript and Bootstrap. Contributors: Shahzoda Davlatova, Diana Liu, Shannon Zhong, and Carol Pignato
+
+* Break the ICE - A site dedicated to raising awareness on ICE and its handling of immigrants seeking refuge, and educating people on their rights.
+
+* DNA Validity & Motif Checker - This program determines validity of a strand of DNA and finds the positions of a particular motif within the DNA. This program only accepts DNA written in capital letters. Written in C++
+
+* Board Game Simulation - This game resembles a basic multiplayer board game such as "Candy Land." Written in C++
+
+* Phone Inventory Database - "This program lets you read in a database of ten phones you are selling, prints the database of information in an orderly fashion, and prompts you to search for an item from a particular company that you would like to buy from. Written in C++.
+
+
+
+* U1-U6 Projects
+
+* Internship Project (Exploring COVID-19)
+
+* FeeLog
+
+
+
+
+
+SKILLS (might need bootstrap)
+
+As a computer scientist, you never stop learning. I have experience in the following languages and look forward to adding more under my belt: 
+
+* Python
+* C++ 
+* HTML/CSS
+* JavaScript
+* Data Structures & Algorithms
+
+
+HOBBIES
+
+*Gaming
+
+When I got my first computer, I'd be on Paint all day just doodling to my heart's content or I'd be on Microsoft Word writing up fantasies and then giving them the most colorful background I could find. When we finally discovered the Internet, it was life-changing and games took over my heart. 
+
+I enjoy customization and strategy in games and am happy to be in the company of others, thus my favorite games are MMORPGs. I've played Mabinogi, Maplestory, Black Desert Online, and currently, Phantasy Star Online 2.
+
+Other games that are also amazing are Among Us, Pokemon Go, Combat Arms, S4 League, World War Z, Dungeon Fighter Online, Mario Kart, and Super Smash Bros Melee.
+
+* Volleyball & Biking
+I don't exercise just for the sake of keeping fit- I like to have fun when I'm doing so. With friends, I will play volleyball as there are so many different ways that you can organize a game. I also enjoy biking as it is the most efficient way to keep fit, get where you need to go locally, save money, and do your part to keep the environment clean.
+You might find me biking on the path from Caesar's Bay, Brooklyn to the Verrazzano Bridge or on the path along the Belt heading to Rockaway Beach. I ride a Specialized Vita Hybrid, nice and comfy.
+
+*Karaoke
+I love a wide array of music, as I spent my childhood mornings before school listening to a bunch of different radio stations. Music really keeps me going and it can relate with so many situations in life. Sometimes you just gotta blurt out the songs, and karaoke is the place to do that. :) 
+
